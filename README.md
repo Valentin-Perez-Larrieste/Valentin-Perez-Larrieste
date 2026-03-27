@@ -4,6 +4,23 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Full-Stack+Developer,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
 </p>
 
+
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me
+
+<picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
+
+- 🌍 Based in Argentina.
+  
+- 👀 I’m interested in software development and creating practical tech solutions.
+  
+- 🌱 I’m currently learning [Java & MySQL].
+  
+- 💻 Looking to collaborate on projects.
+  
+- ⚡ Fun fact: I debug code by day and ponder the meaning of existence by night. "I think, therefore I code."
+
+<br>
+
 ## 🛠 &nbsp;Tech Stack
 
 #### 🔧 Languages
@@ -25,6 +42,9 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
+
+<br>
 
 ---
 
